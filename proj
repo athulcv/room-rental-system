@@ -1,0 +1,4 @@
+ app -> Main method
+ entity -> all the entity classes which needed for project
+ service -> interface
+ serviceimpln -> implementation classes of service
